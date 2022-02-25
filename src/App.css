@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom CSS */
+
+/* Cards */
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+.main-title {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  font-size: 200%;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.card {
+  margin: 10px 10px 18px 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card img {
+  min-height: 220px;
+  border-radius: 10px;
+  max-height: 220px;
+  margin-top: 15px;
+}
+
+.card-title {
+  min-height: 48px;
+}
+
+.card-body p {
+  min-height: 100px;
+}
+
+.card-body button {
+  margin-bottom: 22px;
+}
