@@ -3,6 +3,11 @@
 ## About
 A small frontend application capable of displaying a list of dog images from an open API endpoint. 
 
+
+### Main Components
+
+Live Site: https://optimistic-poitras-572083.netlify.app/
+
 ### Main Components
 
   - Doggo Card
